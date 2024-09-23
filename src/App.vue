@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    123
+    我是vue2 子应用
     <router-view />
   </div>
 </template>
